@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZLO", "ZLO\ZLO.pyproj", "{6833118A-054A-48D8-8AC6-21B5B975D7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6833118A-054A-48D8-8AC6-21B5B975D7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6833118A-054A-48D8-8AC6-21B5B975D7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6833118A-054A-48D8-8AC6-21B5B975D7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6833118A-054A-48D8-8AC6-21B5B975D7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF547AD9-C800-4C1A-8355-785B1F233C9E}
+	EndGlobalSection
+EndGlobal
